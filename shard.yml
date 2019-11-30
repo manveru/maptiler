@@ -1,0 +1,20 @@
+name: maptiler
+version: 0.1.0
+
+authors:
+  - Michael Fellinger <manveru@manveru.dev>
+
+dependencies:
+  easy-cli:
+    github: TheMasterCado/easy-cli
+    branch: dev
+  readline:
+    github: crystal-lang/crystal-readline
+
+targets:
+  maptiler:
+    main: src/cli.cr
+
+crystal: 0.31.1
+
+license: MIT

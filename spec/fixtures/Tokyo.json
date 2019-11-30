@@ -1,0 +1,464 @@
+{
+  "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">&copy; MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
+  "features": [
+    {
+      "bbox": [
+        135.85368543,
+        20.21458102,
+        154.20554098,
+        35.89842449
+      ],
+      "center": [
+        139.2947745,
+        34.2255804
+      ],
+      "geometry": {
+        "coordinates": [
+          139.2947745,
+          34.2255804
+        ],
+        "type": "Point"
+      },
+      "id": "state.1543125",
+      "place_name": "Tokyo",
+      "place_type": [
+        "state"
+      ],
+      "properties": {
+        "osm_id": "relation1543125"
+      },
+      "relevance": 1,
+      "text": "Tokyo",
+      "type": "Feature"
+    },
+    {
+      "center": [
+        142.8381611,
+        -5.7968778
+      ],
+      "context": [
+        {
+          "id": "county.4793636",
+          "osm_id": "relation4793636",
+          "text": "Tari-Pori District"
+        },
+        {
+          "id": "country.307866",
+          "osm_id": "relation307866",
+          "text": "Papua New Guinea"
+        },
+        {
+          "id": "state.3778575",
+          "osm_id": "relation3778575",
+          "text": "Hela"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          142.8381611,
+          -5.7968778
+        ],
+        "type": "Point"
+      },
+      "id": "subcity.3728940234",
+      "place_name": "Tokyo, Tari-Pori District, Hela",
+      "place_type": [
+        "subcity"
+      ],
+      "properties": {
+        "osm_id": "node3728940234"
+      },
+      "relevance": 1,
+      "text": "Tokyo",
+      "type": "Feature"
+    },
+    {
+      "center": [
+        121.0956225,
+        14.6076227
+      ],
+      "context": [
+        {
+          "id": "city.5804645",
+          "osm_id": "relation5804645",
+          "text": "Manggahan"
+        },
+        {
+          "id": "county.131703",
+          "osm_id": "relation131703",
+          "text": "Pasig"
+        },
+        {
+          "id": "country.443174",
+          "osm_id": "relation443174",
+          "text": "Philippines"
+        },
+        {
+          "id": "state.147488",
+          "osm_id": "relation147488",
+          "text": "Metro Manila"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          [
+            121.09510173,
+            14.60747027
+          ],
+          [
+            121.09551269,
+            14.60759013
+          ],
+          [
+            121.09591134,
+            14.60770815
+          ],
+          [
+            121.0961436,
+            14.6077742
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "street.16852756",
+      "place_name": "Tokyo, Manggahan, Pasig, Metro Manila",
+      "place_type": [
+        "street"
+      ],
+      "properties": {
+        "osm_id": "way16852756"
+      },
+      "relevance": 1,
+      "text": "Tokyo",
+      "type": "Feature"
+    },
+    {
+      "center": [
+        120.9334771,
+        14.3882684
+      ],
+      "context": [
+        {
+          "id": "subcity.4172814140",
+          "osm_id": "node4172814140",
+          "text": "Anabu I-D"
+        },
+        {
+          "id": "county.1486016",
+          "osm_id": "relation1486016",
+          "text": "Imus"
+        },
+        {
+          "id": "country.443174",
+          "osm_id": "relation443174",
+          "text": "Philippines"
+        },
+        {
+          "id": "state.1503544",
+          "osm_id": "relation1503544",
+          "text": "Cavite"
+        }
+      ],
+      "geometry": {
+        "geometries": [
+          {
+            "coordinates": [
+              [
+                120.93347693,
+                14.38916712
+              ],
+              [
+                120.93347726,
+                14.38736962
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                120.9333863,
+                14.387813
+              ],
+              [
+                120.9335866,
+                14.3880796
+              ],
+              [
+                120.9336161,
+                14.387698
+              ],
+              [
+                120.9333598,
+                14.3877396
+              ],
+              [
+                120.9333851,
+                14.3881839
+              ],
+              [
+                120.9333855,
+                14.3880912
+              ],
+              [
+                120.9333857,
+                14.3879984
+              ],
+              [
+                120.9333861,
+                14.3879057
+              ],
+              [
+                120.9333871,
+                14.3876275
+              ],
+              [
+                120.9333877,
+                14.387442
+              ],
+              [
+                120.9335835,
+                14.3874643
+              ],
+              [
+                120.9333825,
+                14.3889259
+              ],
+              [
+                120.9335845,
+                14.3875558
+              ],
+              [
+                120.9335855,
+                14.3876472
+              ],
+              [
+                120.9335874,
+                14.3878303
+              ],
+              [
+                120.9335883,
+                14.3879217
+              ],
+              [
+                120.9335892,
+                14.3880133
+              ],
+              [
+                120.9335932,
+                14.3883792
+              ],
+              [
+                120.9333829,
+                14.388833
+              ],
+              [
+                120.933595,
+                14.3885623
+              ],
+              [
+                120.933594,
+                14.3884708
+              ],
+              [
+                120.9335959,
+                14.3886537
+              ],
+              [
+                120.933597,
+                14.3887453
+              ],
+              [
+                120.9335979,
+                14.3888368
+              ],
+              [
+                120.9335989,
+                14.3889282
+              ],
+              [
+                120.9333831,
+                14.3887404
+              ],
+              [
+                120.9333836,
+                14.3886477
+              ],
+              [
+                120.9333839,
+                14.3885548
+              ],
+              [
+                120.9333794,
+                14.3883989
+              ],
+              [
+                120.9333812,
+                14.387511
+              ],
+              [
+                120.9333675,
+                14.3883288
+              ],
+              [
+                120.9336161,
+                14.3882422
+              ],
+              [
+                120.9333662,
+                14.3885022
+              ],
+              [
+                120.9336263,
+                14.388148
+              ]
+            ],
+            "type": "MultiPoint"
+          }
+        ],
+        "type": "GeometryCollection"
+      },
+      "id": "street.29478503",
+      "place_name": "Tokyo, Anabu I-D, Imus, Cavite",
+      "place_type": [
+        "street"
+      ],
+      "properties": {
+        "osm_id": "way29478503"
+      },
+      "relevance": 1,
+      "text": "Tokyo",
+      "type": "Feature"
+    },
+    {
+      "center": [
+        121.1149495,
+        14.591985
+      ],
+      "context": [
+        {
+          "id": "county.3008044",
+          "osm_id": "relation3008044",
+          "text": "Cainta"
+        },
+        {
+          "id": "country.443174",
+          "osm_id": "relation443174",
+          "text": "Philippines"
+        },
+        {
+          "id": "state.1504641",
+          "osm_id": "relation1504641",
+          "text": "Rizal"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          [
+            121.11547143,
+            14.59258912
+          ],
+          [
+            121.11523967,
+            14.59222627
+          ],
+          [
+            121.11512852,
+            14.59216868
+          ],
+          [
+            121.11498017,
+            14.59196576
+          ],
+          [
+            121.11423535,
+            14.59243355
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "street.587362340",
+      "place_name": "Tokyo, Cainta, Rizal",
+      "place_type": [
+        "street"
+      ],
+      "properties": {
+        "osm_id": "way587362340"
+      },
+      "relevance": 1,
+      "text": "Tokyo",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        139.68361864,
+        35.59978717,
+        139.68520659,
+        35.60047416
+      ],
+      "center": [
+        139.6840326,
+        35.6000107
+      ],
+      "context": [
+        {
+          "id": "city.1758947",
+          "osm_id": "relation1758947",
+          "text": "Ota"
+        },
+        {
+          "id": "country.382313",
+          "osm_id": "relation382313",
+          "text": "Japan"
+        },
+        {
+          "id": "state.1543125",
+          "osm_id": "relation1543125",
+          "text": "Tokyo"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              139.68361864,
+              35.59978717
+            ],
+            [
+              139.68520659,
+              35.60023427
+            ],
+            [
+              139.68517818,
+              35.60040945
+            ],
+            [
+              139.68372325,
+              35.60047416
+            ],
+            [
+              139.68361864,
+              35.59978717
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "street.90184662",
+      "place_name": "Tokyo Institute of Technology International House, Ota,, Tokyo",
+      "place_type": [
+        "street"
+      ],
+      "properties": {
+        "osm_id": "way90184662"
+      },
+      "relevance": 1,
+      "text": "Tokyo Institute of Technology International House",
+      "type": "Feature"
+    }
+  ],
+  "query": [
+    "tokyo"
+  ],
+  "type": "FeatureCollection"
+}

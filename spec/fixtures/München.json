@@ -1,0 +1,484 @@
+{
+  "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">&copy; MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
+  "features": [
+    {
+      "center": [
+        11.5807909,
+        49.5560714
+      ],
+      "context": [
+        {
+          "id": "city.1028543",
+          "osm_id": "relation1028543",
+          "text": "Hirschbach"
+        },
+        {
+          "id": "county.17596",
+          "osm_id": "relation17596",
+          "text": "Upper Palatinate"
+        },
+        {
+          "id": "country.51477",
+          "osm_id": "relation51477",
+          "text": "Germany"
+        },
+        {
+          "id": "state.2145268",
+          "osm_id": "relation2145268",
+          "text": "Bavaria"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          11.5807909,
+          49.5560714
+        ],
+        "type": "Point"
+      },
+      "id": "subcity.333153731",
+      "place_name": "München, Hirschbach, Upper Palatinate, Bavaria",
+      "place_type": [
+        "subcity"
+      ],
+      "properties": {
+        "osm_id": "node333153731"
+      },
+      "relevance": 1,
+      "text": "München",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        13.31146006,
+        51.60594256,
+        13.31509328,
+        51.60780854
+      ],
+      "center": [
+        13.3129073,
+        51.606876
+      ],
+      "context": [
+        {
+          "id": "county.62505",
+          "osm_id": "relation62505",
+          "text": "Elbe-Elster"
+        },
+        {
+          "id": "country.51477",
+          "osm_id": "relation51477",
+          "text": "Germany"
+        },
+        {
+          "id": "state.62504",
+          "osm_id": "relation62504",
+          "text": "Brandenburg"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          13.3129073,
+          51.606876
+        ],
+        "type": "Point"
+      },
+      "id": "city.2883259",
+      "place_name": "München, Elbe-Elster, Brandenburg",
+      "place_type": [
+        "city"
+      ],
+      "properties": {
+        "osm_id": "relation2883259"
+      },
+      "relevance": 1,
+      "text": "München",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        13.46096472,
+        48.69541495,
+        13.46580359,
+        48.69898396
+      ],
+      "center": [
+        13.4631523,
+        48.6971156
+      ],
+      "context": [
+        {
+          "id": "city.958093",
+          "osm_id": "relation958093",
+          "text": "Hutthurm"
+        },
+        {
+          "id": "county.17593",
+          "osm_id": "relation17593",
+          "text": "Lower Bavaria"
+        },
+        {
+          "id": "country.51477",
+          "osm_id": "relation51477",
+          "text": "Germany"
+        },
+        {
+          "id": "state.2145268",
+          "osm_id": "relation2145268",
+          "text": "Bavaria"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          13.4631523,
+          48.6971156
+        ],
+        "type": "Point"
+      },
+      "id": "subcity.2883249",
+      "place_name": "München, Hutthurm, Lower Bavaria, Bavaria",
+      "place_type": [
+        "subcity"
+      ],
+      "properties": {
+        "osm_id": "relation2883249"
+      },
+      "relevance": 1,
+      "text": "München",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        11.2475988,
+        50.86645209,
+        11.28564962,
+        50.89385454
+      ],
+      "center": [
+        11.266264,
+        50.8805388
+      ],
+      "context": [
+        {
+          "id": "county.62462",
+          "osm_id": "relation62462",
+          "text": "Landkreis Weimarer Land"
+        },
+        {
+          "id": "country.51477",
+          "osm_id": "relation51477",
+          "text": "Germany"
+        },
+        {
+          "id": "state.62366",
+          "osm_id": "relation62366",
+          "text": "Thuringia"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          11.266264,
+          50.8805388
+        ],
+        "type": "Point"
+      },
+      "id": "city.2883256",
+      "place_name": "München, Landkreis Weimarer Land, Thuringia",
+      "place_type": [
+        "city"
+      ],
+      "properties": {
+        "osm_id": "relation2883256"
+      },
+      "relevance": 1,
+      "text": "München",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        11.36077695,
+        48.06162438,
+        11.72290828,
+        48.24811619
+      ],
+      "center": [
+        11.5258083,
+        48.1545737
+      ],
+      "context": [
+        {
+          "id": "county.2145274",
+          "osm_id": "relation2145274",
+          "text": "Upper Bavaria"
+        },
+        {
+          "id": "country.51477",
+          "osm_id": "relation51477",
+          "text": "Germany"
+        },
+        {
+          "id": "state.2145268",
+          "osm_id": "relation2145268",
+          "text": "Bavaria"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          11.5258083,
+          48.1545737
+        ],
+        "type": "Point"
+      },
+      "id": "city.62428",
+      "matching_place_name": "München, Upper Bavaria, Bavaria",
+      "matching_text": "München",
+      "place_name": "Munich, Upper Bavaria, Bavaria",
+      "place_type": [
+        "city"
+      ],
+      "properties": {
+        "osm_id": "relation62428"
+      },
+      "relevance": 0.9,
+      "text": "Munich",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        7.40743816,
+        46.99806229,
+        7.47643103,
+        47.03551397
+      ],
+      "center": [
+        7.449509,
+        47.0167171
+      ],
+      "context": [
+        {
+          "id": "county.1684745",
+          "osm_id": "relation1684745",
+          "text": "Verwaltungsregion Bern-Mittelland"
+        },
+        {
+          "id": "country.51701",
+          "osm_id": "relation51701",
+          "text": "Switzerland"
+        },
+        {
+          "id": "state.1686344",
+          "osm_id": "relation1686344",
+          "text": "Bern"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          7.449509,
+          47.0167171
+        ],
+        "type": "Point"
+      },
+      "id": "city.1682567",
+      "place_name": "Münchenbuchsee, Verwaltungsregion Bern-Mittelland, Bern",
+      "place_type": [
+        "city"
+      ],
+      "properties": {
+        "osm_id": "relation1682567"
+      },
+      "relevance": 1,
+      "text": "Münchenbuchsee",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        7.11323327,
+        46.90019544,
+        7.13844394,
+        46.91939528
+      ],
+      "center": [
+        7.1255346,
+        46.9097217
+      ],
+      "context": [
+        {
+          "id": "county.1684745",
+          "osm_id": "relation1684745",
+          "text": "Verwaltungsregion Bern-Mittelland"
+        },
+        {
+          "id": "country.51701",
+          "osm_id": "relation51701",
+          "text": "Switzerland"
+        },
+        {
+          "id": "state.1686344",
+          "osm_id": "relation1686344",
+          "text": "Bern"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          7.1255346,
+          46.9097217
+        ],
+        "type": "Point"
+      },
+      "id": "city.1682568",
+      "place_name": "Münchenwiler, Verwaltungsregion Bern-Mittelland, Bern",
+      "place_type": [
+        "city"
+      ],
+      "properties": {
+        "osm_id": "relation1682568"
+      },
+      "relevance": 1,
+      "text": "Münchenwiler",
+      "type": "Feature"
+    },
+    {
+      "center": [
+        7.1255085,
+        46.9124813
+      ],
+      "context": [
+        {
+          "id": "city.1682568",
+          "osm_id": "relation1682568",
+          "text": "Münchenwiler"
+        },
+        {
+          "id": "county.1684745",
+          "osm_id": "relation1684745",
+          "text": "Verwaltungsregion Bern-Mittelland"
+        },
+        {
+          "id": "country.51701",
+          "osm_id": "relation51701",
+          "text": "Switzerland"
+        },
+        {
+          "id": "state.1686344",
+          "osm_id": "relation1686344",
+          "text": "Bern"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          7.1255085,
+          46.9124813
+        ],
+        "type": "Point"
+      },
+      "id": "subcity.240050353",
+      "place_name": "Münchenwiler, Münchenwiler, Verwaltungsregion Bern-Mittelland, Bern",
+      "place_type": [
+        "subcity"
+      ],
+      "properties": {
+        "osm_id": "node240050353"
+      },
+      "relevance": 1,
+      "text": "Münchenwiler",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        11.89997448,
+        50.80500972,
+        11.98771112,
+        50.85266755
+      ],
+      "center": [
+        11.9363166,
+        50.8288334
+      ],
+      "context": [
+        {
+          "id": "county.62445",
+          "osm_id": "relation62445",
+          "text": "Greiz"
+        },
+        {
+          "id": "country.51477",
+          "osm_id": "relation51477",
+          "text": "Germany"
+        },
+        {
+          "id": "state.62366",
+          "osm_id": "relation62366",
+          "text": "Thuringia"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          11.9363166,
+          50.8288334
+        ],
+        "type": "Point"
+      },
+      "id": "city.2804468",
+      "place_name": "Münchenbernsdorf, Greiz, Thuringia",
+      "place_type": [
+        "city"
+      ],
+      "properties": {
+        "osm_id": "relation2804468"
+      },
+      "relevance": 1,
+      "text": "Münchenbernsdorf",
+      "type": "Feature"
+    },
+    {
+      "bbox": [
+        7.59171715,
+        47.49928384,
+        7.64723996,
+        47.54080033
+      ],
+      "center": [
+        7.6110444,
+        47.5200526
+      ],
+      "context": [
+        {
+          "id": "county.1684487",
+          "osm_id": "relation1684487",
+          "text": "Bezirk Arlesheim"
+        },
+        {
+          "id": "country.51701",
+          "osm_id": "relation51701",
+          "text": "Switzerland"
+        },
+        {
+          "id": "state.1686366",
+          "osm_id": "relation1686366",
+          "text": "Basel-Landschaft"
+        }
+      ],
+      "geometry": {
+        "coordinates": [
+          7.6110444,
+          47.5200526
+        ],
+        "type": "Point"
+      },
+      "id": "city.1683678",
+      "place_name": "Münchenstein, Bezirk Arlesheim, Basel-Landschaft",
+      "place_type": [
+        "city"
+      ],
+      "properties": {
+        "osm_id": "relation1683678"
+      },
+      "relevance": 1,
+      "text": "Münchenstein",
+      "type": "Feature"
+    }
+  ],
+  "query": [
+    "münchen"
+  ],
+  "type": "FeatureCollection"
+}
