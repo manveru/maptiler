@@ -58,15 +58,13 @@ module Maptiler
     private def handle_response(res : HTTP::Client::Response) : GeoJSON | Nil
       case res.status
       when HTTP::Status::OK
-        puts res.body
-        # GeoJSON.from_json(res.body_io)
+        GeoJSON.from_json(res.body_io)
       when HTTP::Status::NOT_FOUND
         nil
       when HTTP::Status::FORBIDDEN
         raise "Make sure your API key is correct!"
       else
-        pp! res
-        nil
+        raise "Unknown response: #{res.body.to_s}"
       end
     end
 
