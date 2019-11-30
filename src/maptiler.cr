@@ -50,7 +50,7 @@ module Maptiler
          bbox : BBox? = nil,
          proximity : Proximity? = nil,
          language : Array(String)? = nil
-    ) : GeoJSON | Nil
+    ) : GeoJSON::FeatureCollection | Nil
       url = prepare(query, bbox, proximity, language)
       handle_response HTTP::Client.get(url)
     end
